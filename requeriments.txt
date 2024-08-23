@@ -1,4 +1,4 @@
-yfinance==0.2.41
+yfinance
 crewai==0.28.8
 'crewai[tools]'
 langchain==0.1.20
